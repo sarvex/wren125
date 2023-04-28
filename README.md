@@ -1,5 +1,5 @@
-# Zig
-Trying to complete 125 projects from in Zig
+# Wren
+Trying to complete 125 projects from in Wren
 
 Numbers
 ---------
